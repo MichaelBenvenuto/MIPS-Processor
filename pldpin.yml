@@ -1,0 +1,6 @@
+xilinx7:
+  clk_i: E3
+  leds[0]: H5
+  leds[1]: J5
+  leds[2]: T9
+  leds[3]: T10

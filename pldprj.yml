@@ -1,0 +1,6 @@
+device: XC7A35T-1CSG324
+filetype: MIXED
+optimize: Speed
+top: test_top
+src: ./vhdl_src
+vhdl_2008: True
